@@ -1,4 +1,5 @@
 # EventEmitter
+What is Event Emitter?
 
 ## Getting Started
 ```js
